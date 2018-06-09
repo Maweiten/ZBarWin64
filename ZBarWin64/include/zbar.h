@@ -1483,7 +1483,7 @@ extern zbar_color_t zbar_scanner_get_color(const zbar_scanner_t *scanner);
 #ifdef __cplusplus
     }
 }
-
+//// test 6.9
 # include "zbar/Exception.h"
 # include "zbar/Decoder.h"
 # include "zbar/Scanner.h"
